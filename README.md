@@ -6,7 +6,6 @@
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=juansebashr&show_icons=true&count_private=true&theme=dracula&line_height=30">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=juansebashr&theme=dracula&line_height=28&langs_count=3">
 </p>
 </details>
 
@@ -24,4 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=juansebashr&theme=dracula&line_height=28&langs_count=3">
 -->
