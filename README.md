@@ -1,6 +1,6 @@
 <a href="https://twitter.com/juansebashr" target="_blank" rel="nofollow"><img align="right" alt="Sebastian Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/sebastian-hernandez-reyes-76a0a8148/" target="_blank" rel="nofollow"><img align="right" alt="Sebastian Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sebastian
+## Allow me to introduce myself, I'm Sebastian <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
  <summary> 🚀 <b>Github Stats</b>: </summary>
 <br>
 <p align = "center">
